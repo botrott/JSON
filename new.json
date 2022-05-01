@@ -1,4 +1,4 @@
-const user = [
+
 {
     firstName: 'Alexey',
     lastName: 'Petrov',
@@ -7,7 +7,7 @@ const user = [
     pets: '1',
     salary: '300000'
 },
-];
+
     
     
  
