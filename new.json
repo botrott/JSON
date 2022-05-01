@@ -1,13 +1,13 @@
 const user = [
 {
-       	firstName: "Alexey",
-        lastName: "Petrov",
-    	patronymic: "Alexeyevich",
-    	age: "30",
-    	pets: "1",
-    	salary: "300000"
-}
-]
+    firstName: 'Alexey',
+    lastName: 'Petrov',
+    patronymic: 'Alexeyevich',
+    age: '30',
+    pets: '1',
+    salary: '300000'
+},
+];
     
     
  
