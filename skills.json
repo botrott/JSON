@@ -1,1 +1,7 @@
-sddddsd
+const skills = [
+    {
+        s1: 'Githab',
+        s2: 'Postman',
+       
+        
+    },
