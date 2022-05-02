@@ -1,9 +1,12 @@
-{
-	"film"
-	"serial"
-	"eat"
-	"vremy"
-	"country"
+const INFO = {
+	firstName: 'Alexey',
+	lastName: 'Petrov',
+	pastronymic: 'Alexeyevich',
+	age: '30',
+	pets: '1',
+	salary: '300000'
+};
+
 
 
 
