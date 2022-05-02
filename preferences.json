@@ -5,7 +5,7 @@ const INFO = {
 	age: '30',
 	pets: '1',
 	salary: '300000'
-};
+}
 
 
 
