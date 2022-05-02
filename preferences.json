@@ -1,10 +1,10 @@
-const INFO = {
-	firstName: 'Alexey',
-	lastName: 'Petrov',
-	pastronymic: 'Alexeyevich',
-	age: '30',
-	pets: '1',
-	salary: '300000'
+const INFO2 = {
+	film: 'The Lord pf the Rings',
+	serial: 'Mindhunter',
+	food: 'Wok',
+	season: 'Winter',
+	country: 'New Zealand',
+	
 	
 };
 
