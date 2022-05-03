@@ -1,11 +1,11 @@
-const INFO = {
-	firstName: 'Alexey',
-	lastName: 'Petrov',
-	pastronymic: 'Alexeyevich',
-	age: '30',
-	pets: '1',
-	salary: '300000'
-};
+{
+	"firstName": "Alexey",
+	"lastName": "Petrov",
+	"pastronymic": "Alexeyevich",
+	"age": "30",
+	"pets": "1",
+	"salary": "300000"
+}
     
     
  
