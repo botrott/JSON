@@ -1,9 +1,9 @@
-const INFO = {
-	film: 'The Lord pf the Rings',
-	serial: 'Mindhunter',
-	food: 'Wok',
-	season: 'Winter',
-	country: 'New Zealand',
+{
+	"film": "The Lord pf the Rings",
+	"serial": "Mindhunter",
+	"food": "Wok",
+	"season": "Winter",
+	"country": "New Zealand",
 	
 	
 };
